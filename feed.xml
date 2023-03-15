@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>testplace</title>
+    <link href="https://woh5.github.io/testplace/feed.xml" rel="self" />
+    <link href="https://woh5.github.io/testplace" />
+    <updated>2023-03-15T22:52:21+01:00</updated>
+    <author>
+        <name>test</name>
+    </author>
+    <id>https://woh5.github.io/testplace</id>
+
+    <entry>
+        <title>About</title>
+        <author>
+            <name>test</name>
+        </author>
+        <link href="https://woh5.github.io/testplace/about.html"/>
+        <id>https://woh5.github.io/testplace/about.html</id>
+
+        <updated>2023-03-15T22:52:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                    About shepherdsplace
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>About shepherdsplace</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>test</name>
+        </author>
+        <link href="https://woh5.github.io/testplace/contact.html"/>
+        <id>https://woh5.github.io/testplace/contact.html</id>
+
+        <updated>2023-03-15T22:33:50+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://woh5.github.io/testplace/media/posts/2/spmmaps.jpg" alt="" width="692" height="496" sizes="100vw" srcset="https://woh5.github.io/testplace/media/posts/2/responsive/spmmaps-xs.jpg 300w ,https://woh5.github.io/testplace/media/posts/2/responsive/spmmaps-sm.jpg 480w ,https://woh5.github.io/testplace/media/posts/2/responsive/spmmaps-md.jpg 768w ,https://woh5.github.io/testplace/media/posts/2/responsive/spmmaps-lg.jpg 1024w ,https://woh5.github.io/testplace/media/posts/2/responsive/spmmaps-xl.jpg 1360w ,https://woh5.github.io/testplace/media/posts/2/responsive/spmmaps-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Main</title>
+        <author>
+            <name>test</name>
+        </author>
+        <link href="https://woh5.github.io/testplace/main.html"/>
+        <id>https://woh5.github.io/testplace/main.html</id>
+
+        <updated>2023-03-15T22:36:16+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Our church A house where we serve, honour and revere God the Father, Jesus the Son and the Holy Spirit. A group of normal people who can be who they are. A learning school where you will learn how to become a better you. A safe haven where you find love, support and empowerment.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4 class="fusion-responsive-typography-calculated" data-fontsize="18" data-lineheight="23.94px"><strong>Our church</strong></h4>
+<ul>
+<li>A <u>house</u> where we serve, honour and revere God the Father, Jesus the Son and the Holy Spirit.</li>
+<li>A <u>group</u> of normal people who can be who they are.</li>
+<li>A <u>learning school</u> where you will learn how to become a better you.</li>
+<li>A <u>safe haven</u> where you find love, support and empowerment.</li>
+<li>A <u>family</u> of all sorts of people.<figure class="post__image"><img loading="lazy"  src="https://woh5.github.io/testplace/media/posts/1/spmcrowd.jpg" alt="" width="1048" height="699" sizes="100vw" srcset="https://woh5.github.io/testplace/media/posts/1/responsive/spmcrowd-xs.jpg 300w ,https://woh5.github.io/testplace/media/posts/1/responsive/spmcrowd-sm.jpg 480w ,https://woh5.github.io/testplace/media/posts/1/responsive/spmcrowd-md.jpg 768w ,https://woh5.github.io/testplace/media/posts/1/responsive/spmcrowd-lg.jpg 1024w ,https://woh5.github.io/testplace/media/posts/1/responsive/spmcrowd-xl.jpg 1360w ,https://woh5.github.io/testplace/media/posts/1/responsive/spmcrowd-2xl.jpg 1600w"></figure></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>

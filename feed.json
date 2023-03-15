@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "testplace",
+    "description": "",
+    "home_page_url": "https://woh5.github.io/testplace",
+    "feed_url": "https://woh5.github.io/testplace/feed.json",
+    "user_comment": "",
+    "icon": "https://woh5.github.io/testplace/media/website/spmcontact1.jpg",
+    "author": {
+        "name": "test"
+    },
+    "items": [
+        {
+            "id": "https://woh5.github.io/testplace/about.html",
+            "url": "https://woh5.github.io/testplace/about.html",
+            "title": "About",
+            "summary": "About shepherdsplace",
+            "content_html": "<p>About shepherdsplace</p>",
+            "author": {
+                "name": "test"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-15T22:52:21+01:00",
+            "date_modified": "2023-03-15T22:52:21+01:00"
+        },
+        {
+            "id": "https://woh5.github.io/testplace/contact.html",
+            "url": "https://woh5.github.io/testplace/contact.html",
+            "title": "Contact",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://woh5.github.io/testplace/media/posts/2/spmmaps.jpg\" alt=\"\" width=\"692\" height=\"496\" sizes=\"100vw\" srcset=\"https://woh5.github.io/testplace/media/posts/2/responsive/spmmaps-xs.jpg 300w ,https://woh5.github.io/testplace/media/posts/2/responsive/spmmaps-sm.jpg 480w ,https://woh5.github.io/testplace/media/posts/2/responsive/spmmaps-md.jpg 768w ,https://woh5.github.io/testplace/media/posts/2/responsive/spmmaps-lg.jpg 1024w ,https://woh5.github.io/testplace/media/posts/2/responsive/spmmaps-xl.jpg 1360w ,https://woh5.github.io/testplace/media/posts/2/responsive/spmmaps-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "test"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-15T22:33:50+01:00",
+            "date_modified": "2023-03-15T22:33:50+01:00"
+        },
+        {
+            "id": "https://woh5.github.io/testplace/main.html",
+            "url": "https://woh5.github.io/testplace/main.html",
+            "title": "Main",
+            "summary": "Our church A house where we serve, honour and revere God the Father, Jesus the Son and the Holy Spirit. A group of normal people who can be who they are. A learning school where you will learn how to become a better you. A safe haven where you find love, support and empowerment.",
+            "content_html": "<h4 class=\"fusion-responsive-typography-calculated\" data-fontsize=\"18\" data-lineheight=\"23.94px\"><strong>Our church</strong></h4>\n<ul>\n<li>A <u>house</u> where we serve, honour and revere God the Father, Jesus the Son and the Holy Spirit.</li>\n<li>A <u>group</u> of normal people who can be who they are.</li>\n<li>A <u>learning school</u> where you will learn how to become a better you.</li>\n<li>A <u>safe haven</u> where you find love, support and empowerment.</li>\n<li>A <u>family</u> of all sorts of people.<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://woh5.github.io/testplace/media/posts/1/spmcrowd.jpg\" alt=\"\" width=\"1048\" height=\"699\" sizes=\"100vw\" srcset=\"https://woh5.github.io/testplace/media/posts/1/responsive/spmcrowd-xs.jpg 300w ,https://woh5.github.io/testplace/media/posts/1/responsive/spmcrowd-sm.jpg 480w ,https://woh5.github.io/testplace/media/posts/1/responsive/spmcrowd-md.jpg 768w ,https://woh5.github.io/testplace/media/posts/1/responsive/spmcrowd-lg.jpg 1024w ,https://woh5.github.io/testplace/media/posts/1/responsive/spmcrowd-xl.jpg 1360w ,https://woh5.github.io/testplace/media/posts/1/responsive/spmcrowd-2xl.jpg 1600w\"></figure></li>\n</ul>",
+            "author": {
+                "name": "test"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-15T22:32:05+01:00",
+            "date_modified": "2023-03-15T22:36:16+01:00"
+        }
+    ]
+}

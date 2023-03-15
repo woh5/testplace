@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://woh5.github.io/testplace/sitemap.xml
