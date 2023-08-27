@@ -3,41 +3,37 @@
     <title>testplace</title>
     <link href="https://woh5.github.io/testplace/feed.xml" rel="self" />
     <link href="https://woh5.github.io/testplace" />
-    <updated>2023-03-15T22:52:21+01:00</updated>
+    <updated>2023-08-27T17:45:11+02:00</updated>
     <author>
-        <name>test</name>
+        <name>Shepherdsplace The Hague</name>
     </author>
     <id>https://woh5.github.io/testplace</id>
 
     <entry>
-        <title>About</title>
+        <title>Planned Activities</title>
         <author>
-            <name>test</name>
+            <name>Shepherdsplace The Hague</name>
         </author>
         <link href="https://woh5.github.io/testplace/about.html"/>
         <id>https://woh5.github.io/testplace/about.html</id>
 
-        <updated>2023-03-15T22:52:21+01:00</updated>
-            <summary>
-                <![CDATA[
-                    About shepherdsplace
-                ]]>
-            </summary>
+        <updated>2023-08-27T17:44:49+02:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>About shepherdsplace</p>
+                <figure class="post__image"><img loading="lazy"  src="https://woh5.github.io/testplace/media/posts/3/WhatsApp-Image-2023-08-19-at-09.38.03.jpeg" alt="" width="2048" height="2048" sizes="100vw" srcset="https://woh5.github.io/testplace/media/posts/3/responsive/WhatsApp-Image-2023-08-19-at-09.38.03-xs.jpeg 300w ,https://woh5.github.io/testplace/media/posts/3/responsive/WhatsApp-Image-2023-08-19-at-09.38.03-sm.jpeg 480w ,https://woh5.github.io/testplace/media/posts/3/responsive/WhatsApp-Image-2023-08-19-at-09.38.03-md.jpeg 768w ,https://woh5.github.io/testplace/media/posts/3/responsive/WhatsApp-Image-2023-08-19-at-09.38.03-lg.jpeg 1024w ,https://woh5.github.io/testplace/media/posts/3/responsive/WhatsApp-Image-2023-08-19-at-09.38.03-xl.jpeg 1360w ,https://woh5.github.io/testplace/media/posts/3/responsive/WhatsApp-Image-2023-08-19-at-09.38.03-2xl.jpeg 1600w"></figure>
             ]]>
         </content>
     </entry>
     <entry>
         <title>Contact</title>
         <author>
-            <name>test</name>
+            <name>Shepherdsplace The Hague</name>
         </author>
         <link href="https://woh5.github.io/testplace/contact.html"/>
         <id>https://woh5.github.io/testplace/contact.html</id>
 
-        <updated>2023-03-15T22:33:50+01:00</updated>
+        <updated>2023-08-27T17:44:58+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -48,12 +44,12 @@
     <entry>
         <title>Main</title>
         <author>
-            <name>test</name>
+            <name>Shepherdsplace The Hague</name>
         </author>
         <link href="https://woh5.github.io/testplace/main.html"/>
         <id>https://woh5.github.io/testplace/main.html</id>
 
-        <updated>2023-03-15T22:36:16+01:00</updated>
+        <updated>2023-08-27T17:45:11+02:00</updated>
             <summary>
                 <![CDATA[
                     Our church A house where we serve, honour and revere God the Father, Jesus the Son and the Holy Spirit. A group of normal people who can be who they are. A learning school where you will learn how to become a better you. A safe haven where you find love, support and empowerment.
